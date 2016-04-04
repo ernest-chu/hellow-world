@@ -3,6 +3,6 @@ training repository
 
 Hellow everyone,
 
-Thsi is the modified readme.
+This is the modified readme.
 
 /Ernest
